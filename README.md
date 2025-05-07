@@ -12,7 +12,7 @@
 
 1. Clone repository นี้:
    ```
-   git clone https://github.com/kunaaa123/OpenAPI-YAML-Operation-ID-Fixer.git
+   git clone https://github.com/kunaaa123/Operation-ID-Fixer.git
    cd openapi-operation-id-fixer
    ```
 
