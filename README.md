@@ -11,10 +11,9 @@
 
 ## การติดตั้ง
 
-1. ตรวจสอบให้แน่ใจว่าคุณมี Go ติดตั้งแล้วบนเครื่อง
-2. Clone repository นี้:
+1. Clone repository นี้:
    ```
-   git clone https://github.com/yourusername/openapi-operation-id-fixer.git
+   git clone https://github.com/kunaaa123/OpenAPI-YAML-Operation-ID-Fixer.git
    cd openapi-operation-id-fixer
    ```
 
@@ -24,10 +23,7 @@
 go run fix_operation_id.go <openapi.yaml>
 ```
 
-ตัวอย่าง:
-```
-go run fix_operation_id.go api-spec.yaml
-```
+
 
 หลังจากทำงานเสร็จ โปรแกรมจะสร้างไฟล์ใหม่ชื่อ `<openapi>_fixed.yaml`
 
